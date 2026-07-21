@@ -32,23 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/issei-m/issei-m/master/profile-summary-card-output/outrun/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/issei-m/issei-m/master/profile-summary-card-output/outrun/3-stats.svg)
-```
-
-    
